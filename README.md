@@ -17,7 +17,9 @@ We used this table to analyze and visualize the data by answered to the followin
 ### 3. What is the average low temperature by month?
 ![image](https://user-images.githubusercontent.com/120151872/222986555-33ccdbdf-558b-41ca-8d80-84eae12fe387.png)
 
+
 Which month, on average, has the lowest temperature?  The highest?
+
 ![image](https://user-images.githubusercontent.com/120151872/222986506-00bffc3d-23ed-4da6-8ecb-fcaded653137.png)
 
 ### 4. Average pressure by Martian month
